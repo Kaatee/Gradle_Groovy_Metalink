@@ -3,8 +3,24 @@ apply plugin: 'groovy'
 import org.opwo.gradle.Metalink
 
 tasks.register("metalink" ,Metalink){
-	fileSet = "."
-	//url = "http://zad-opwo.com/download"
-	//url2 = serverFilesUrl
-	//outputFile = "zad-opwo.xml"
+	if(project.hasProperty('pathParam')){
+		fileSet = pathParam
+	}
+	else{
+		fileSet = fileSet2
+	}
+
+	if(project.hasProperty('urlParam')){
+		url2 = urlParam
+	}
+	else{
+		url2 = serverFilesUrl2
+	}
+
+	if(project.hasProperty('outputFileParam')){
+		outputFile = outputFileParam
+	}
+	else{
+		outputFile = outputFile2
+	}
 }

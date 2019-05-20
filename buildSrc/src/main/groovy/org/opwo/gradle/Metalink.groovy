@@ -10,6 +10,8 @@ import java.text.SimpleDateFormat
 
 class Metalink extends DefaultTask{
 	String fileSet
+	String url2
+	String outputFile
 
 	def generateMD5(File file) {
 		try{
@@ -30,7 +32,8 @@ class Metalink extends DefaultTask{
 		
 		def dir = new File("${fileSet}")
 
-		def fileWriter = new FileWriter("zad-opwo.xml")
+		def fileWriter = new FileWriter("${outputFile}")
+		
 		def xmlBuilder = new MarkupBuilder(fileWriter)
 		xmlBuilder.mkp.xmlDeclaration(version: "1.0", encoding: "utf-8")
 
@@ -41,11 +44,11 @@ class Metalink extends DefaultTask{
 				xmlBuilder.file("name": file.name){
 					xmlBuilder.size(file.length())
 					xmlBuilder.hash("type": "md5", generateMD5(file))
+					String urlMark = (url2 + file).minus(dir.getAbsolutePath().toString()).replace('\\','/')
+					xmlBuilder.url(urlMark)
 				}			
 			}
 		}
 		fileWriter << xmlBuilder.toString()
 	}
 }
-
-//2019-04-29T10:00:00Z

@@ -1,0 +1,919 @@
+<?xml version='1.0' encoding='utf-8'?>
+<metalink xmls='urn:ietf:params:xml:ns:metalink'>
+  <published>2019-05-20T20:35:12Z</published>
+  <file name='COMMIT_EDITMSG'>
+    <size>28</size>
+    <hash type='md5'>fabf71aaa36bd0bb0e6cb938202a0682</hash>
+    <url>http://mojurl/./.git/COMMIT_EDITMSG</url>
+  </file>
+  <file name='config'>
+    <size>311</size>
+    <hash type='md5'>f127d4b6e3afd89da3455493bd21cf12</hash>
+    <url>http://mojurl/./.git/config</url>
+  </file>
+  <file name='description'>
+    <size>73</size>
+    <hash type='md5'>a0a7c3fff21f2aea3cfa1d0316dd816c</hash>
+    <url>http://mojurl/./.git/description</url>
+  </file>
+  <file name='HEAD'>
+    <size>23</size>
+    <hash type='md5'>4cf2d64e44205fe628ddd534e1151b58</hash>
+    <url>http://mojurl/./.git/HEAD</url>
+  </file>
+  <file name='applypatch-msg.sample'>
+    <size>478</size>
+    <hash type='md5'>ce562e08d8098926a3862fc6e7905199</hash>
+    <url>http://mojurl/./.git/hooks/applypatch-msg.sample</url>
+  </file>
+  <file name='commit-msg.sample'>
+    <size>896</size>
+    <hash type='md5'>579a3c1e12a1e74a98169175fb913012</hash>
+    <url>http://mojurl/./.git/hooks/commit-msg.sample</url>
+  </file>
+  <file name='post-update.sample'>
+    <size>189</size>
+    <hash type='md5'>2b7ea5cee3c49ff53d41e00785eb974c</hash>
+    <url>http://mojurl/./.git/hooks/post-update.sample</url>
+  </file>
+  <file name='pre-applypatch.sample'>
+    <size>424</size>
+    <hash type='md5'>054f9ffb8bfe04a599751cc757226dda</hash>
+    <url>http://mojurl/./.git/hooks/pre-applypatch.sample</url>
+  </file>
+  <file name='pre-commit.sample'>
+    <size>1642</size>
+    <hash type='md5'>01b1688f97f94776baae85d77b06048b</hash>
+    <url>http://mojurl/./.git/hooks/pre-commit.sample</url>
+  </file>
+  <file name='pre-push.sample'>
+    <size>1348</size>
+    <hash type='md5'>3c5989301dd4b949dfa1f43738a22819</hash>
+    <url>http://mojurl/./.git/hooks/pre-push.sample</url>
+  </file>
+  <file name='pre-rebase.sample'>
+    <size>4898</size>
+    <hash type='md5'>56e45f2bcbc8226d2b4200f7c46371bf</hash>
+    <url>http://mojurl/./.git/hooks/pre-rebase.sample</url>
+  </file>
+  <file name='pre-receive.sample'>
+    <size>544</size>
+    <hash type='md5'>2ad18ec82c20af7b5926ed9cea6aeedd</hash>
+    <url>http://mojurl/./.git/hooks/pre-receive.sample</url>
+  </file>
+  <file name='prepare-commit-msg.sample'>
+    <size>1492</size>
+    <hash type='md5'>2b5c047bdb474555e1787db32b2d2fc5</hash>
+    <url>http://mojurl/./.git/hooks/prepare-commit-msg.sample</url>
+  </file>
+  <file name='update.sample'>
+    <size>3610</size>
+    <hash type='md5'>517f14b9239689dff8bda3022ebd9004</hash>
+    <url>http://mojurl/./.git/hooks/update.sample</url>
+  </file>
+  <file name='index'>
+    <size>4514</size>
+    <hash type='md5'>e8e89ee191585c9fb4dc67e76af8d191</hash>
+    <url>http://mojurl/./.git/index</url>
+  </file>
+  <file name='exclude'>
+    <size>240</size>
+    <hash type='md5'>036208b4a1ab4a235d75c181e685e5a3</hash>
+    <url>http://mojurl/./.git/info/exclude</url>
+  </file>
+  <file name='HEAD'>
+    <size>522</size>
+    <hash type='md5'>129d9db891d18108b0cd47e5f8e77e28</hash>
+    <url>http://mojurl/./.git/logs/HEAD</url>
+  </file>
+  <file name='master'>
+    <size>522</size>
+    <hash type='md5'>129d9db891d18108b0cd47e5f8e77e28</hash>
+    <url>http://mojurl/./.git/logs/refs/heads/master</url>
+  </file>
+  <file name='master'>
+    <size>462</size>
+    <hash type='md5'>5bda7d63bec53009620183f9bb0e1793</hash>
+    <url>http://mojurl/./.git/logs/refs/remotes/origin/master</url>
+  </file>
+  <file name='2374b90f7a331e0f96f8871da8e4abf53931aa'>
+    <size>46</size>
+    <hash type='md5'>1ebde3877bf5dd1f6019f13926d5cdcc</hash>
+    <url>http://mojurl/./.git/objects/09/2374b90f7a331e0f96f8871da8e4abf53931aa</url>
+  </file>
+  <file name='28cbc17b0b112868c1f6bf13fc7dbe8745d23c'>
+    <size>45</size>
+    <hash type='md5'>12c8017cfb7b10b01bb3af8d352f27ee</hash>
+    <url>http://mojurl/./.git/objects/0a/28cbc17b0b112868c1f6bf13fc7dbe8745d23c</url>
+  </file>
+  <file name='45b02077564d30e3d2deb106b7375fcde2ff62'>
+    <size>48</size>
+    <hash type='md5'>871c87c9857af5a7259abf4592d8bdfc</hash>
+    <url>http://mojurl/./.git/objects/0c/45b02077564d30e3d2deb106b7375fcde2ff62</url>
+  </file>
+  <file name='cb4dc1e33c32829be107e9e4d46d2e585b91cd'>
+    <size>48</size>
+    <hash type='md5'>986451705449cfc6a91ba0a0a8dff913</hash>
+    <url>http://mojurl/./.git/objects/0e/cb4dc1e33c32829be107e9e4d46d2e585b91cd</url>
+  </file>
+  <file name='f1855569bc82f7b0de8c8ebb6e2d31c7ed2155'>
+    <size>45</size>
+    <hash type='md5'>6b09cef10f45ff363abdd42d8760fad3</hash>
+    <url>http://mojurl/./.git/objects/0e/f1855569bc82f7b0de8c8ebb6e2d31c7ed2155</url>
+  </file>
+  <file name='3b92e4250de47bee280e2a5c227ced31c16ed2'>
+    <size>68</size>
+    <hash type='md5'>968d296791864dec7bd465a1b5722574</hash>
+    <url>http://mojurl/./.git/objects/0f/3b92e4250de47bee280e2a5c227ced31c16ed2</url>
+  </file>
+  <file name='51094cb4bfda76980d8d709c2eaca2bd868860'>
+    <size>93</size>
+    <hash type='md5'>816b0406d4a96982d853cdc12c427d05</hash>
+    <url>http://mojurl/./.git/objects/15/51094cb4bfda76980d8d709c2eaca2bd868860</url>
+  </file>
+  <file name='a86f6d4d4b76986d1f6aee68618d36ceb0b535'>
+    <size>48</size>
+    <hash type='md5'>aecbe077e3cce6c6a5e7a59b117928a7</hash>
+    <url>http://mojurl/./.git/objects/1b/a86f6d4d4b76986d1f6aee68618d36ceb0b535</url>
+  </file>
+  <file name='a8fc117585895b89faf7171c77ed0c2ffe4b70'>
+    <size>1297</size>
+    <hash type='md5'>40b796c6b22df2307e5bf3f1a574d0ee</hash>
+    <url>http://mojurl/./.git/objects/1c/a8fc117585895b89faf7171c77ed0c2ffe4b70</url>
+  </file>
+  <file name='ae6f98a795768d906f5a45076cde5214c05039'>
+    <size>48</size>
+    <hash type='md5'>353c4152e151b05be3f9b5430ccdf4a3</hash>
+    <url>http://mojurl/./.git/objects/1c/ae6f98a795768d906f5a45076cde5214c05039</url>
+  </file>
+  <file name='34f09ab0c84e8c801d034327933068d3933d0f'>
+    <size>87</size>
+    <hash type='md5'>95a7957d53eb78ecd130b52eb5e51298</hash>
+    <url>http://mojurl/./.git/objects/1d/34f09ab0c84e8c801d034327933068d3933d0f</url>
+  </file>
+  <file name='ba79eee7e0ae1138dd8ecd3c3e954f4944df88'>
+    <size>58</size>
+    <hash type='md5'>95f950176d3ea56969abb203ac808249</hash>
+    <url>http://mojurl/./.git/objects/1d/ba79eee7e0ae1138dd8ecd3c3e954f4944df88</url>
+  </file>
+  <file name='10361a77b4686fde0db0e2a956ffd596f6fee0'>
+    <size>4619</size>
+    <hash type='md5'>aefe1a9deaafb443451fa6b254226106</hash>
+    <url>http://mojurl/./.git/objects/1e/10361a77b4686fde0db0e2a956ffd596f6fee0</url>
+  </file>
+  <file name='b93b5b6304efdfe8096389d710881c5ff030f1'>
+    <size>1548</size>
+    <hash type='md5'>c0c0dc0557f07bb45c1873cdd804dc99</hash>
+    <url>http://mojurl/./.git/objects/21/b93b5b6304efdfe8096389d710881c5ff030f1</url>
+  </file>
+  <file name='e5ae070202eeb55aff5f13e8261758dad5626e'>
+    <size>186</size>
+    <hash type='md5'>45ad9be23ef5c50baafd725e2bba4d1c</hash>
+    <url>http://mojurl/./.git/objects/22/e5ae070202eeb55aff5f13e8261758dad5626e</url>
+  </file>
+  <file name='0084d5b391163ad9d93368d92b70c466a35735'>
+    <size>49</size>
+    <hash type='md5'>11c044a4a120e90e43f7beefe023bb0c</hash>
+    <url>http://mojurl/./.git/objects/25/0084d5b391163ad9d93368d92b70c466a35735</url>
+  </file>
+  <file name='a13a32608574e90f0456637645a9ca62af4658'>
+    <size>45</size>
+    <hash type='md5'>f625b7567e2701f5f607caffd980229c</hash>
+    <url>http://mojurl/./.git/objects/26/a13a32608574e90f0456637645a9ca62af4658</url>
+  </file>
+  <file name='c5924f4397abbbb975aa5ae136c3899f8b6800'>
+    <size>123</size>
+    <hash type='md5'>19e52dc31705ff22d66a15669c882611</hash>
+    <url>http://mojurl/./.git/objects/2c/c5924f4397abbbb975aa5ae136c3899f8b6800</url>
+  </file>
+  <file name='e68fb29890a39d4cc2ea4a5b920a8f61564cb2'>
+    <size>187</size>
+    <hash type='md5'>86b5458b95c04c7fdbc7d55985f8f4c8</hash>
+    <url>http://mojurl/./.git/objects/2e/e68fb29890a39d4cc2ea4a5b920a8f61564cb2</url>
+  </file>
+  <file name='175a01ccb3bdfb386afee2e21cdcc66dfc6546'>
+    <size>48</size>
+    <hash type='md5'>308f70dfd9963e390f1da6b25d7c778a</hash>
+    <url>http://mojurl/./.git/objects/30/175a01ccb3bdfb386afee2e21cdcc66dfc6546</url>
+  </file>
+  <file name='f897922f6fbd7aab7400c47bd615d3f7f27678'>
+    <size>11050</size>
+    <hash type='md5'>720e49582e5918d417b4851917c0818d</hash>
+    <url>http://mojurl/./.git/objects/30/f897922f6fbd7aab7400c47bd615d3f7f27678</url>
+  </file>
+  <file name='942295e0eab4230f1d0461be5fabca25ead836'>
+    <size>596</size>
+    <hash type='md5'>5fdbd3c7a1255c4515f045a2c84fe883</hash>
+    <url>http://mojurl/./.git/objects/31/942295e0eab4230f1d0461be5fabca25ead836</url>
+  </file>
+  <file name='2a390eeca792ed249098c8807b78225fdac7c7'>
+    <size>94</size>
+    <hash type='md5'>07cbc02227717b296f8fe74d7cddd091</hash>
+    <url>http://mojurl/./.git/objects/32/2a390eeca792ed249098c8807b78225fdac7c7</url>
+  </file>
+  <file name='a038769b15c0935bb3cd038f5cc1de7579f128'>
+    <size>17</size>
+    <hash type='md5'>b2e5410d4eb675dd8c40a461bf173a10</hash>
+    <url>http://mojurl/./.git/objects/35/a038769b15c0935bb3cd038f5cc1de7579f128</url>
+  </file>
+  <file name='0905a16ec809c02e12ed58b9191c90132d0629'>
+    <size>1109</size>
+    <hash type='md5'>2c5b8d685df599246206cf9ce5931640</hash>
+    <url>http://mojurl/./.git/objects/37/0905a16ec809c02e12ed58b9191c90132d0629</url>
+  </file>
+  <file name='754276f4a105064363a199263bdfdcd92d8e48'>
+    <size>1690</size>
+    <hash type='md5'>45fb384841068448d3cd5902b8246eb1</hash>
+    <url>http://mojurl/./.git/objects/38/754276f4a105064363a199263bdfdcd92d8e48</url>
+  </file>
+  <file name='664b229498071c24e529e94fda804f502bdb1c'>
+    <size>119</size>
+    <hash type='md5'>c6c3945f9a5bb8990b5fc017d7576da3</hash>
+    <url>http://mojurl/./.git/objects/39/664b229498071c24e529e94fda804f502bdb1c</url>
+  </file>
+  <file name='bf30805206cf236b6e441fc2076067c4282ef9'>
+    <size>60</size>
+    <hash type='md5'>98303dbd88236c319cba10d7b2125739</hash>
+    <url>http://mojurl/./.git/objects/3b/bf30805206cf236b6e441fc2076067c4282ef9</url>
+  </file>
+  <file name='285bda024d310608213b2d0ca65af1c719a0a8'>
+    <size>60</size>
+    <hash type='md5'>32afba2da34296a6ac9430177cc406f1</hash>
+    <url>http://mojurl/./.git/objects/3e/285bda024d310608213b2d0ca65af1c719a0a8</url>
+  </file>
+  <file name='744eda120575a23beea09fb73c2b3c8f5d07b4'>
+    <size>48</size>
+    <hash type='md5'>a8a5976205479212d340785b13d73531</hash>
+    <url>http://mojurl/./.git/objects/42/744eda120575a23beea09fb73c2b3c8f5d07b4</url>
+  </file>
+  <file name='0fd277450589ba0e287eca1e3ab89dd251034e'>
+    <size>2349</size>
+    <hash type='md5'>36f6b6634ab41e50bd161bc050b59ff2</hash>
+    <url>http://mojurl/./.git/objects/43/0fd277450589ba0e287eca1e3ab89dd251034e</url>
+  </file>
+  <file name='73a2e82b6203fcf3b4d393a3c2dc0e1e4c96c4'>
+    <size>119</size>
+    <hash type='md5'>6306428e4963fe58bf93c4260e051c09</hash>
+    <url>http://mojurl/./.git/objects/45/73a2e82b6203fcf3b4d393a3c2dc0e1e4c96c4</url>
+  </file>
+  <file name='f7c9ff03c195d45e96cd7e8f0f88bb4c9e3731'>
+    <size>123</size>
+    <hash type='md5'>7acac88be0075c83d1b512c4223a0928</hash>
+    <url>http://mojurl/./.git/objects/45/f7c9ff03c195d45e96cd7e8f0f88bb4c9e3731</url>
+  </file>
+  <file name='7f94cde573b76ec2df8d604ca23a34c18aab29'>
+    <size>106</size>
+    <hash type='md5'>e9ae4c517ef774006d00878c78412077</hash>
+    <url>http://mojurl/./.git/objects/4c/7f94cde573b76ec2df8d604ca23a34c18aab29</url>
+  </file>
+  <file name='cfcfa9698f4c878b5788de62d2e5d6c4a0e32a'>
+    <size>146</size>
+    <hash type='md5'>d19d557869ef2f7072ffe9f11a81a4fd</hash>
+    <url>http://mojurl/./.git/objects/4c/cfcfa9698f4c878b5788de62d2e5d6c4a0e32a</url>
+  </file>
+  <file name='49303689ad8b210e8ead7e719707500967f45c'>
+    <size>1546</size>
+    <hash type='md5'>94c56af9f8fc6d7cdeec9a9d135d5ef9</hash>
+    <url>http://mojurl/./.git/objects/4d/49303689ad8b210e8ead7e719707500967f45c</url>
+  </file>
+  <file name='c69e194a27c0e8868929b80781ffafaac91023'>
+    <size>165</size>
+    <hash type='md5'>a5c5be12ac52660ab08ef01437342a22</hash>
+    <url>http://mojurl/./.git/objects/4e/c69e194a27c0e8868929b80781ffafaac91023</url>
+  </file>
+  <file name='3cad2f25a341d3f4d47641cfbf2a9ef26c21e3'>
+    <size>152</size>
+    <hash type='md5'>1755d8d7d6c7bfc3c89648149dac68a9</hash>
+    <url>http://mojurl/./.git/objects/4f/3cad2f25a341d3f4d47641cfbf2a9ef26c21e3</url>
+  </file>
+  <file name='4898bf56c2db640616b528801c5b73d3823553'>
+    <size>1119</size>
+    <hash type='md5'>4351df5edcd14c99a65588420004c664</hash>
+    <url>http://mojurl/./.git/objects/4f/4898bf56c2db640616b528801c5b73d3823553</url>
+  </file>
+  <file name='fccb24a9afa984ae41bd0aa917e09c45b8b7bb'>
+    <size>169</size>
+    <hash type='md5'>27eef897c2d0ccb9f04659c312ec95c5</hash>
+    <url>http://mojurl/./.git/objects/52/fccb24a9afa984ae41bd0aa917e09c45b8b7bb</url>
+  </file>
+  <file name='02f79b7d5d59f038309890f106ca947d799e91'>
+    <size>57</size>
+    <hash type='md5'>0019265d75b346895f05879dc898e82d</hash>
+    <url>http://mojurl/./.git/objects/55/02f79b7d5d59f038309890f106ca947d799e91</url>
+  </file>
+  <file name='9d64037e14dea9558ee8d0eff1ad3e8e586900'>
+    <size>48</size>
+    <hash type='md5'>9094aacf9bf76d304fb620371b7bdd85</hash>
+    <url>http://mojurl/./.git/objects/55/9d64037e14dea9558ee8d0eff1ad3e8e586900</url>
+  </file>
+  <file name='7d90cc85a313b1125333af3b34d12ef4f1d28e'>
+    <size>58</size>
+    <hash type='md5'>efb1c5f10688bce3e954f4ffd75f0de5</hash>
+    <url>http://mojurl/./.git/objects/56/7d90cc85a313b1125333af3b34d12ef4f1d28e</url>
+  </file>
+  <file name='70b08f67ffc26d39e61ad9fedb2a04523e1f8c'>
+    <size>1387</size>
+    <hash type='md5'>2188a70f622206afb65e6c9976e61cde</hash>
+    <url>http://mojurl/./.git/objects/57/70b08f67ffc26d39e61ad9fedb2a04523e1f8c</url>
+  </file>
+  <file name='f8de8a00e6ca40f1339510fb921bc26d5ba1f5'>
+    <size>123</size>
+    <hash type='md5'>d6c52c22bd5c247ae548ae2823938719</hash>
+    <url>http://mojurl/./.git/objects/57/f8de8a00e6ca40f1339510fb921bc26d5ba1f5</url>
+  </file>
+  <file name='fc43dba351f51c266f8f53c920a229fa90af6d'>
+    <size>4001</size>
+    <hash type='md5'>95700b0785349a334f7cb0d0235f460a</hash>
+    <url>http://mojurl/./.git/objects/57/fc43dba351f51c266f8f53c920a229fa90af6d</url>
+  </file>
+  <file name='cf2527ff6de80c81e9a5cd6d349b938e7f2004'>
+    <size>107</size>
+    <hash type='md5'>fcb00db4f11620c69f46e92a2c1b9add</hash>
+    <url>http://mojurl/./.git/objects/58/cf2527ff6de80c81e9a5cd6d349b938e7f2004</url>
+  </file>
+  <file name='499bce4a2bd51cba227b7c00fcf745b19c95a4'>
+    <size>39</size>
+    <hash type='md5'>f425438a8dc71c11de0f34d9b69fcf16</hash>
+    <url>http://mojurl/./.git/objects/59/499bce4a2bd51cba227b7c00fcf745b19c95a4</url>
+  </file>
+  <file name='74e97cce4612e34e6249dfaa96be0f710a49a7'>
+    <size>1379</size>
+    <hash type='md5'>f30ff66a8deb3cb3e662926103759666</hash>
+    <url>http://mojurl/./.git/objects/5b/74e97cce4612e34e6249dfaa96be0f710a49a7</url>
+  </file>
+  <file name='aafb2ba683cefdc29ba602863f041d25890c04'>
+    <size>1406</size>
+    <hash type='md5'>24b2942de344c06eff02b37a904114df</hash>
+    <url>http://mojurl/./.git/objects/60/aafb2ba683cefdc29ba602863f041d25890c04</url>
+  </file>
+  <file name='069e6e47b57b01327b4fdfe7d12d6f55139f0c'>
+    <size>105</size>
+    <hash type='md5'>94f07a237b74f5dbcef996c0bc0dce57</hash>
+    <url>http://mojurl/./.git/objects/65/069e6e47b57b01327b4fdfe7d12d6f55139f0c</url>
+  </file>
+  <file name='dd886885d317233925eef2d5fca2ae3cad849d'>
+    <size>46</size>
+    <hash type='md5'>877df69d1fc8f92493059419635ec933</hash>
+    <url>http://mojurl/./.git/objects/65/dd886885d317233925eef2d5fca2ae3cad849d</url>
+  </file>
+  <file name='7afd8b62927d53a89f312aec87b988f5020770'>
+    <size>329</size>
+    <hash type='md5'>fc44a754d8ecc34dea6cbdadafbd7f32</hash>
+    <url>http://mojurl/./.git/objects/67/7afd8b62927d53a89f312aec87b988f5020770</url>
+  </file>
+  <file name='f7955fe2e273cf4547f38df182fce94b6c8383'>
+    <size>3239</size>
+    <hash type='md5'>e81c3f53ce00804812edd04c2c1cc4b4</hash>
+    <url>http://mojurl/./.git/objects/68/f7955fe2e273cf4547f38df182fce94b6c8383</url>
+  </file>
+  <file name='0d9b3de548afa39f0d9c331b14d09b74425094'>
+    <size>112</size>
+    <hash type='md5'>171351b9813e94605378879329b97a4f</hash>
+    <url>http://mojurl/./.git/objects/6c/0d9b3de548afa39f0d9c331b14d09b74425094</url>
+  </file>
+  <file name='83a4cc42be7e454937e3516f41515613f8b3ed'>
+    <size>46</size>
+    <hash type='md5'>47b6e36c374f5d699aecc4ee546a3392</hash>
+    <url>http://mojurl/./.git/objects/6d/83a4cc42be7e454937e3516f41515613f8b3ed</url>
+  </file>
+  <file name='2d568aa738cb2f9c47bfd0132a213ea2f660ec'>
+    <size>67</size>
+    <hash type='md5'>59d054057c70f8072f53723956a95aba</hash>
+    <url>http://mojurl/./.git/objects/6e/2d568aa738cb2f9c47bfd0132a213ea2f660ec</url>
+  </file>
+  <file name='7e2bb852a1cc726f9ac70298a17280ea5a6fb8'>
+    <size>189</size>
+    <hash type='md5'>3a14ffe2be9ea33a8a84dc8a904954b3</hash>
+    <url>http://mojurl/./.git/objects/72/7e2bb852a1cc726f9ac70298a17280ea5a6fb8</url>
+  </file>
+  <file name='2ba69a21c4cd449fda945c7466bcad478c0655'>
+    <size>46</size>
+    <hash type='md5'>2f17009d29528a041c6b8a1152a0906a</hash>
+    <url>http://mojurl/./.git/objects/75/2ba69a21c4cd449fda945c7466bcad478c0655</url>
+  </file>
+  <file name='5553af076d78a825b9080a15bcea1f8171600b'>
+    <size>104</size>
+    <hash type='md5'>6d5516ba56a822cf94e6b29fcb004ad5</hash>
+    <url>http://mojurl/./.git/objects/75/5553af076d78a825b9080a15bcea1f8171600b</url>
+  </file>
+  <file name='27a4196ae334c32dc247469e4abad3a5df24c0'>
+    <size>94</size>
+    <hash type='md5'>4fc8a4a2e4712b7781b9b56d3783937f</hash>
+    <url>http://mojurl/./.git/objects/79/27a4196ae334c32dc247469e4abad3a5df24c0</url>
+  </file>
+  <file name='87123e94eebbdb169cdb777e346bd509d2ad8b'>
+    <size>118</size>
+    <hash type='md5'>bee79e1e5143228c782eba826d5c988c</hash>
+    <url>http://mojurl/./.git/objects/7b/87123e94eebbdb169cdb777e346bd509d2ad8b</url>
+  </file>
+  <file name='9c8ea30fd3cecdc612dc304d541cebcde1a9f3'>
+    <size>1658</size>
+    <hash type='md5'>1938df71c63cab095223666e47b861f2</hash>
+    <url>http://mojurl/./.git/objects/7c/9c8ea30fd3cecdc612dc304d541cebcde1a9f3</url>
+  </file>
+  <file name='af9415f842229c510ab70401bcde9368efde45'>
+    <size>145</size>
+    <hash type='md5'>f5a4fb8c88b5de6835c887cbc29b8966</hash>
+    <url>http://mojurl/./.git/objects/7c/af9415f842229c510ab70401bcde9368efde45</url>
+  </file>
+  <file name='a81db4a43cb82922e02d293adf859c003b460c'>
+    <size>27</size>
+    <hash type='md5'>b08bc5bd8d4700743829f87a8d27e97a</hash>
+    <url>http://mojurl/./.git/objects/7e/a81db4a43cb82922e02d293adf859c003b460c</url>
+  </file>
+  <file name='a726d274d3d929f8fe995e9c5159609dd91e5a'>
+    <size>165</size>
+    <hash type='md5'>d1e4cc876c7b693d45ef486cfc79b24d</hash>
+    <url>http://mojurl/./.git/objects/7f/a726d274d3d929f8fe995e9c5159609dd91e5a</url>
+  </file>
+  <file name='8800cacf113e0f9213907bdf51e99a3c999bfc'>
+    <size>48</size>
+    <hash type='md5'>bb6b905f71744ae1ed0cd3dc62bd9d9d</hash>
+    <url>http://mojurl/./.git/objects/80/8800cacf113e0f9213907bdf51e99a3c999bfc</url>
+  </file>
+  <file name='fb60d0a17f4bd416cf7b4ce6a422058a4343cd'>
+    <size>87</size>
+    <hash type='md5'>3ff1b23debc081e050362cd293152cb6</hash>
+    <url>http://mojurl/./.git/objects/80/fb60d0a17f4bd416cf7b4ce6a422058a4343cd</url>
+  </file>
+  <file name='848cb6a829a9abff258ea47fa74cbfb90b1214'>
+    <size>257</size>
+    <hash type='md5'>40da30c31979d4240d13af944272e452</hash>
+    <url>http://mojurl/./.git/objects/81/848cb6a829a9abff258ea47fa74cbfb90b1214</url>
+  </file>
+  <file name='7fb81f77e8275865b30e648cfe62eb936a3eb1'>
+    <size>57</size>
+    <hash type='md5'>821437facb4b97a3932f4fee970af48c</hash>
+    <url>http://mojurl/./.git/objects/84/7fb81f77e8275865b30e648cfe62eb936a3eb1</url>
+  </file>
+  <file name='4fd1ea2b98fc3cdd37e9dd0a6ae74587e54a0b'>
+    <size>2745</size>
+    <hash type='md5'>100a0deaa244a8b487263f9cb64df608</hash>
+    <url>http://mojurl/./.git/objects/87/4fd1ea2b98fc3cdd37e9dd0a6ae74587e54a0b</url>
+  </file>
+  <file name='b0b8689772be6020bcb7749b148324f215f8f7'>
+    <size>30</size>
+    <hash type='md5'>04fe4286ae17c290fb2727e7ada3db86</hash>
+    <url>http://mojurl/./.git/objects/87/b0b8689772be6020bcb7749b148324f215f8f7</url>
+  </file>
+  <file name='c87369bf48fc835534e6626440ba546e435f51'>
+    <size>58</size>
+    <hash type='md5'>490ca219bfea4039fa454a12949ecd3a</hash>
+    <url>http://mojurl/./.git/objects/89/c87369bf48fc835534e6626440ba546e435f51</url>
+  </file>
+  <file name='590a3ed1b1adb8e5f4533075493707eec1bcf0'>
+    <size>254</size>
+    <hash type='md5'>115391f269e57bf6ce0efd6005197a1d</hash>
+    <url>http://mojurl/./.git/objects/8b/590a3ed1b1adb8e5f4533075493707eec1bcf0</url>
+  </file>
+  <file name='8a630616c4356b8ee4c52d135d705d46074e68'>
+    <size>30</size>
+    <hash type='md5'>660a98d4c1963aab81a10fa3515204cf</hash>
+    <url>http://mojurl/./.git/objects/8b/8a630616c4356b8ee4c52d135d705d46074e68</url>
+  </file>
+  <file name='d7e20191e5ce59106bde0aec9fdfab43ae1238'>
+    <size>1387</size>
+    <hash type='md5'>dd9263ba4121d44e6087b16827e56de1</hash>
+    <url>http://mojurl/./.git/objects/8d/d7e20191e5ce59106bde0aec9fdfab43ae1238</url>
+  </file>
+  <file name='63c43d10af07553dfc2719c1a158d5829b6075'>
+    <size>30</size>
+    <hash type='md5'>824f7baa1c1a762d9697ffc90ac49670</hash>
+    <url>http://mojurl/./.git/objects/8f/63c43d10af07553dfc2719c1a158d5829b6075</url>
+  </file>
+  <file name='ff236b41a24ea006b2b5499047c8c8d245eec6'>
+    <size>189</size>
+    <hash type='md5'>936b13559fb2f6fa196127dba87d2320</hash>
+    <url>http://mojurl/./.git/objects/90/ff236b41a24ea006b2b5499047c8c8d245eec6</url>
+  </file>
+  <file name='2f55989342b0b2a4c05484548b1b4ab3884b8f'>
+    <size>695</size>
+    <hash type='md5'>0df4408d0a564d0e41170655877920c6</hash>
+    <url>http://mojurl/./.git/objects/93/2f55989342b0b2a4c05484548b1b4ab3884b8f</url>
+  </file>
+  <file name='d6e13326628b844f1cebefc5c420f173542f42'>
+    <size>94</size>
+    <hash type='md5'>e3d35850c58e267eef370fc661010d50</hash>
+    <url>http://mojurl/./.git/objects/95/d6e13326628b844f1cebefc5c420f173542f42</url>
+  </file>
+  <file name='ecf69d764b8409c556ead2f2daac5d273b308e'>
+    <size>45</size>
+    <hash type='md5'>a9d61abd77f63dc9754ef60ee594cb75</hash>
+    <url>http://mojurl/./.git/objects/95/ecf69d764b8409c556ead2f2daac5d273b308e</url>
+  </file>
+  <file name='c37e0380e0596a2d53756d669e125ec0d6b906'>
+    <size>60</size>
+    <hash type='md5'>41ed05237c0af8abff498f5db09e1c49</hash>
+    <url>http://mojurl/./.git/objects/96/c37e0380e0596a2d53756d669e125ec0d6b906</url>
+  </file>
+  <file name='5315ef71b8099aa0b7eb11dd1c73f0087afc08'>
+    <size>46</size>
+    <hash type='md5'>67965163d8fbe4746e50a4c3c6aa1439</hash>
+    <url>http://mojurl/./.git/objects/9d/5315ef71b8099aa0b7eb11dd1c73f0087afc08</url>
+  </file>
+  <file name='8505b864caeaa0244020c0adcfacced7f8fee1'>
+    <size>1108</size>
+    <hash type='md5'>4d4080d01186b7244143ad1d220f401c</hash>
+    <url>http://mojurl/./.git/objects/9d/8505b864caeaa0244020c0adcfacced7f8fee1</url>
+  </file>
+  <file name='8c2a8906e8c2fdc4cd2eda4e5d6c82ffaeda7b'>
+    <size>46</size>
+    <hash type='md5'>d5410b9ee499a401e77b2dd8b0a71b07</hash>
+    <url>http://mojurl/./.git/objects/a0/8c2a8906e8c2fdc4cd2eda4e5d6c82ffaeda7b</url>
+  </file>
+  <file name='58493def6c2f766899d91016b922c8e4fb754d'>
+    <size>623</size>
+    <hash type='md5'>2be98df2679dc683939ac1a0d6b9da22</hash>
+    <url>http://mojurl/./.git/objects/aa/58493def6c2f766899d91016b922c8e4fb754d</url>
+  </file>
+  <file name='fc967faac6c77d8ea1c5aa9724b4ef59750840'>
+    <size>45</size>
+    <hash type='md5'>98cd9abfa1d676be0f4f0d78ae849c0c</hash>
+    <url>http://mojurl/./.git/objects/aa/fc967faac6c77d8ea1c5aa9724b4ef59750840</url>
+  </file>
+  <file name='1bedab2ce8082dc99a7a2ea6c40ab0ffea7ec4'>
+    <size>46</size>
+    <hash type='md5'>1e5df03aeb9996589d54bf53b884e348</hash>
+    <url>http://mojurl/./.git/objects/ad/1bedab2ce8082dc99a7a2ea6c40ab0ffea7ec4</url>
+  </file>
+  <file name='66125b39da54422d6736184f8395ce32bd8e07'>
+    <size>165</size>
+    <hash type='md5'>77d70ded8eac9396eb915c0db293dc5c</hash>
+    <url>http://mojurl/./.git/objects/af/66125b39da54422d6736184f8395ce32bd8e07</url>
+  </file>
+  <file name='682f5631d2c66511b30409e42610b21c0adaf9'>
+    <size>30</size>
+    <hash type='md5'>1320a3bb46af4b3a3df4549f7e30536d</hash>
+    <url>http://mojurl/./.git/objects/b0/682f5631d2c66511b30409e42610b21c0adaf9</url>
+  </file>
+  <file name='820d62e8d4b40c9a4f9f0ffdf0f15c84e03b88'>
+    <size>29</size>
+    <hash type='md5'>1cc08f0f038d2a9e2de9dd497e107e5e</hash>
+    <url>http://mojurl/./.git/objects/b1/820d62e8d4b40c9a4f9f0ffdf0f15c84e03b88</url>
+  </file>
+  <file name='e5eea9684d1693a40e6ff18443106a4d6f9d75'>
+    <size>142</size>
+    <hash type='md5'>c474c788c3e59f130726c741613b77cd</hash>
+    <url>http://mojurl/./.git/objects/b1/e5eea9684d1693a40e6ff18443106a4d6f9d75</url>
+  </file>
+  <file name='1ab1a12d755112bb413c99a7d46783305ec555'>
+    <size>30</size>
+    <hash type='md5'>f24bd1b1b3a89cd0ecd0000a789a8464</hash>
+    <url>http://mojurl/./.git/objects/b4/1ab1a12d755112bb413c99a7d46783305ec555</url>
+  </file>
+  <file name='1ef129b74f3e9a8ad09922df12a5a9d40c0aaa'>
+    <size>93</size>
+    <hash type='md5'>ff5c68167c8864913edc53ef70bc955d</hash>
+    <url>http://mojurl/./.git/objects/b6/1ef129b74f3e9a8ad09922df12a5a9d40c0aaa</url>
+  </file>
+  <file name='1112c69ff1ca4cac15409f81661d0e2ab414e5'>
+    <size>99</size>
+    <hash type='md5'>b48256e62749db579ff2afea3c57e2c2</hash>
+    <url>http://mojurl/./.git/objects/b9/1112c69ff1ca4cac15409f81661d0e2ab414e5</url>
+  </file>
+  <file name='fcabb55c65c53e1912f29e1914161fe5d67037'>
+    <size>57</size>
+    <hash type='md5'>d482d452e3cea288ed4d7dc4e7f1b04e</hash>
+    <url>http://mojurl/./.git/objects/bf/fcabb55c65c53e1912f29e1914161fe5d67037</url>
+  </file>
+  <file name='8fcc49a5e383a6f1946e70626f59cf3fafeda5'>
+    <size>29</size>
+    <hash type='md5'>50ec1ff8370690a4f8b251ff118674d5</hash>
+    <url>http://mojurl/./.git/objects/c0/8fcc49a5e383a6f1946e70626f59cf3fafeda5</url>
+  </file>
+  <file name='0a981757e2e36746d7b84c191507adf9280686'>
+    <size>48</size>
+    <hash type='md5'>01c830538cf717d0d87523f6fd84613b</hash>
+    <url>http://mojurl/./.git/objects/c3/0a981757e2e36746d7b84c191507adf9280686</url>
+  </file>
+  <file name='24f4b87c74c5b8b21474b3991176c70ea50883'>
+    <size>1125</size>
+    <hash type='md5'>bca2d9d96921f485b62fd85bacbc27f8</hash>
+    <url>http://mojurl/./.git/objects/c3/24f4b87c74c5b8b21474b3991176c70ea50883</url>
+  </file>
+  <file name='f14044bd72bc591c835d865b8c4650f23b90a8'>
+    <size>2351</size>
+    <hash type='md5'>908625b365ecf1b4929f63133b424db3</hash>
+    <url>http://mojurl/./.git/objects/c4/f14044bd72bc591c835d865b8c4650f23b90a8</url>
+  </file>
+  <file name='2875f3606516d413465ddb923d3b5637a39a30'>
+    <size>48</size>
+    <hash type='md5'>0ccc6037a3fd691cdf610c4fff588fbc</hash>
+    <url>http://mojurl/./.git/objects/c6/2875f3606516d413465ddb923d3b5637a39a30</url>
+  </file>
+  <file name='cd87b027d9aab2738142b91aa93aef586d20b8'>
+    <size>93</size>
+    <hash type='md5'>7e8e021d9bc65c71bd08d4a08dfd87fc</hash>
+    <url>http://mojurl/./.git/objects/c6/cd87b027d9aab2738142b91aa93aef586d20b8</url>
+  </file>
+  <file name='414c643a7254531d145e2ce747c2c3f0d7f6b1'>
+    <size>46</size>
+    <hash type='md5'>edc82bca268aa8ad97e9068975fcf746</hash>
+    <url>http://mojurl/./.git/objects/c7/414c643a7254531d145e2ce747c2c3f0d7f6b1</url>
+  </file>
+  <file name='ada93c44fd2e0e57686af3e4acc549439d187e'>
+    <size>48</size>
+    <hash type='md5'>7bcd299f7c28cfa338e9a19d00addebe</hash>
+    <url>http://mojurl/./.git/objects/c9/ada93c44fd2e0e57686af3e4acc549439d187e</url>
+  </file>
+  <file name='a3732d5452e2a6801e8b8a83dba3c380a30d0c'>
+    <size>46</size>
+    <hash type='md5'>13bf67a3f8047e4ebd64bc7a895a2059</hash>
+    <url>http://mojurl/./.git/objects/cd/a3732d5452e2a6801e8b8a83dba3c380a30d0c</url>
+  </file>
+  <file name='bb5adb961acad9ffce7760e96648d18aba9f4f'>
+    <size>106</size>
+    <hash type='md5'>9f2b099ab7c2f64e6124504288d14d67</hash>
+    <url>http://mojurl/./.git/objects/d1/bb5adb961acad9ffce7760e96648d18aba9f4f</url>
+  </file>
+  <file name='ef826493d07cb110b5500beb2153c071253c92'>
+    <size>1379</size>
+    <hash type='md5'>0917e3ca3badcd82425a12b3af02b8a1</hash>
+    <url>http://mojurl/./.git/objects/d7/ef826493d07cb110b5500beb2153c071253c92</url>
+  </file>
+  <file name='efec2615d74b03b34f696f3a7db78cd80606e2'>
+    <size>56</size>
+    <hash type='md5'>1d2e583128a7f136cadcdd7d6f09a906</hash>
+    <url>http://mojurl/./.git/objects/dd/efec2615d74b03b34f696f3a7db78cd80606e2</url>
+  </file>
+  <file name='61e3eb1a2a062461d8e6846fd4a64c6d441ceb'>
+    <size>45</size>
+    <hash type='md5'>b0d920a965832cb558b312fcd5bf605b</hash>
+    <url>http://mojurl/./.git/objects/de/61e3eb1a2a062461d8e6846fd4a64c6d441ceb</url>
+  </file>
+  <file name='fe29297e6ca6a7f6647bfcae91f31adbfd4df4'>
+    <size>6709</size>
+    <hash type='md5'>dadfce2a298e85a27d98a5c81bb5961e</hash>
+    <url>http://mojurl/./.git/objects/e1/fe29297e6ca6a7f6647bfcae91f31adbfd4df4</url>
+  </file>
+  <file name='7efe98cb3c3e0dce827c22fe995c3dd8c0fabf'>
+    <size>1547</size>
+    <hash type='md5'>34d675495f625d7efaf9a82967dbf3f9</hash>
+    <url>http://mojurl/./.git/objects/e3/7efe98cb3c3e0dce827c22fe995c3dd8c0fabf</url>
+  </file>
+  <file name='9f440b98141595b6bdabaf55f9b3a4e2919a05'>
+    <size>30</size>
+    <hash type='md5'>a6388b9cf939bc4e66c71c18186af7c0</hash>
+    <url>http://mojurl/./.git/objects/e3/9f440b98141595b6bdabaf55f9b3a4e2919a05</url>
+  </file>
+  <file name='c88d8996cce529c15a0bb2839188a0c6778863'>
+    <size>105</size>
+    <hash type='md5'>2f9ced2d07131c9176d555db04d2cb48</hash>
+    <url>http://mojurl/./.git/objects/e4/c88d8996cce529c15a0bb2839188a0c6778863</url>
+  </file>
+  <file name='3593158564581fd2215cd690cc876ac8e02419'>
+    <size>46</size>
+    <hash type='md5'>a3cf591c8438b7e92a0fed7defdeb00a</hash>
+    <url>http://mojurl/./.git/objects/e5/3593158564581fd2215cd690cc876ac8e02419</url>
+  </file>
+  <file name='9de29bb2d1d6434b8b29ae775ad8c2e48c5391'>
+    <size>15</size>
+    <hash type='md5'>c70c34cbeefd40e7c0149b7a0c2c64c2</hash>
+    <url>http://mojurl/./.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391</url>
+  </file>
+  <file name='334657d1d8e102fdcd4614d030c1ec8843196f'>
+    <size>46</size>
+    <hash type='md5'>e74fdfbba4111277003a4b1acc247051</hash>
+    <url>http://mojurl/./.git/objects/e7/334657d1d8e102fdcd4614d030c1ec8843196f</url>
+  </file>
+  <file name='5bcde489cfd2f60928c2b56a2a5e3214ffd202'>
+    <size>104</size>
+    <hash type='md5'>8bec41c5f4ae201dbe269184f77c84a1</hash>
+    <url>http://mojurl/./.git/objects/e7/5bcde489cfd2f60928c2b56a2a5e3214ffd202</url>
+  </file>
+  <file name='5d98e46eaadc00140ed808888352db8ebe5bf3'>
+    <size>3997</size>
+    <hash type='md5'>70a6c1a531a894bb002c7c28369c8791</hash>
+    <url>http://mojurl/./.git/objects/e8/5d98e46eaadc00140ed808888352db8ebe5bf3</url>
+  </file>
+  <file name='f24bd38f5b275a670bffb9062e29f000d5ee41'>
+    <size>86</size>
+    <hash type='md5'>3b623da2573488029ae679d2273dcfbe</hash>
+    <url>http://mojurl/./.git/objects/e8/f24bd38f5b275a670bffb9062e29f000d5ee41</url>
+  </file>
+  <file name='67625889e3575381b179964177e701feb9e0ff'>
+    <size>46</size>
+    <hash type='md5'>b6e62fff0e843c431a590a28c1fa5ae0</hash>
+    <url>http://mojurl/./.git/objects/eb/67625889e3575381b179964177e701feb9e0ff</url>
+  </file>
+  <file name='8ccb5950fe2316e86d89e7e0dcd198e0048ccc'>
+    <size>441</size>
+    <hash type='md5'>7e61795faeb9de79026a4c0d799d2d60</hash>
+    <url>http://mojurl/./.git/objects/eb/8ccb5950fe2316e86d89e7e0dcd198e0048ccc</url>
+  </file>
+  <file name='5087b5e7f1186360dbfccdaf4e824884596914'>
+    <size>29</size>
+    <hash type='md5'>007a8b35108bbb2d3fe72ee4fe22426b</hash>
+    <url>http://mojurl/./.git/objects/ee/5087b5e7f1186360dbfccdaf4e824884596914</url>
+  </file>
+  <file name='7bbf25758b82be1a361e1903fe47b35d1125be'>
+    <size>29</size>
+    <hash type='md5'>9b9eaad12efe902955ca6b6dce10ec65</hash>
+    <url>http://mojurl/./.git/objects/f2/7bbf25758b82be1a361e1903fe47b35d1125be</url>
+  </file>
+  <file name='179eff84619ed8da1d20659d5328dc7ba6af84'>
+    <size>10902</size>
+    <hash type='md5'>320eb54891ff2eb17a1952d4d255d3e0</hash>
+    <url>http://mojurl/./.git/objects/f4/179eff84619ed8da1d20659d5328dc7ba6af84</url>
+  </file>
+  <file name='44af2f74d7ed6c381d0b4433b5172ff991176d'>
+    <size>145</size>
+    <hash type='md5'>8088256ec7a593773bc11ed022245c79</hash>
+    <url>http://mojurl/./.git/objects/f5/44af2f74d7ed6c381d0b4433b5172ff991176d</url>
+  </file>
+  <file name='6dd238ade08917e6712764a16a22005a50573d'>
+    <size>16</size>
+    <hash type='md5'>3fd9956a00ee5c84c8b0581b5ece759e</hash>
+    <url>http://mojurl/./.git/objects/f7/6dd238ade08917e6712764a16a22005a50573d</url>
+  </file>
+  <file name='5e3ab4dcfe25ff0b6a7a95b2346e378a2f9e79'>
+    <size>94</size>
+    <hash type='md5'>d4bf191ceb563f8051cd63548e2d18cd</hash>
+    <url>http://mojurl/./.git/objects/f8/5e3ab4dcfe25ff0b6a7a95b2346e378a2f9e79</url>
+  </file>
+  <file name='3811cf08b68e348f4ece41fe64e5cff9d7275f'>
+    <size>253</size>
+    <hash type='md5'>c77503bdabf7a9a49fdf0ad6cfee697a</hash>
+    <url>http://mojurl/./.git/objects/f9/3811cf08b68e348f4ece41fe64e5cff9d7275f</url>
+  </file>
+  <file name='60111561ca6e4caf14f5acbda520a1f5fe1513'>
+    <size>1406</size>
+    <hash type='md5'>90c775a8f941c61cf935da9bcf7e5b24</hash>
+    <url>http://mojurl/./.git/objects/fa/60111561ca6e4caf14f5acbda520a1f5fe1513</url>
+  </file>
+  <file name='9d10cb5a6741308188c593c27c28a4c1ba0d0c'>
+    <size>45</size>
+    <hash type='md5'>5f16caf84a5dcf305359fa28209ea107</hash>
+    <url>http://mojurl/./.git/objects/fd/9d10cb5a6741308188c593c27c28a4c1ba0d0c</url>
+  </file>
+  <file name='7941e3f73fd0cc4e68e0a00e84b8c069362adf'>
+    <size>30</size>
+    <hash type='md5'>28bc37da835a62f666542874ea0a9800</hash>
+    <url>http://mojurl/./.git/objects/fe/7941e3f73fd0cc4e68e0a00e84b8c069362adf</url>
+  </file>
+  <file name='dc2753ab7faf3ff620e3d9deaa6c601fe495bd'>
+    <size>61</size>
+    <hash type='md5'>48d5b243c4c06206f3e8a40468303662</hash>
+    <url>http://mojurl/./.git/objects/fe/dc2753ab7faf3ff620e3d9deaa6c601fe495bd</url>
+  </file>
+  <file name='master'>
+    <size>41</size>
+    <hash type='md5'>97bedeb11f58ea98ff679d6bc88cf2f3</hash>
+    <url>http://mojurl/./.git/refs/heads/master</url>
+  </file>
+  <file name='master'>
+    <size>41</size>
+    <hash type='md5'>97bedeb11f58ea98ff679d6bc88cf2f3</hash>
+    <url>http://mojurl/./.git/refs/remotes/origin/master</url>
+  </file>
+  <file name='executionHistory.bin'>
+    <size>18706</size>
+    <hash type='md5'>30fe319f23f802108759152dfe688034</hash>
+    <url>http://mojurl/./.gradle/5.3.1/executionHistory/executionHistory.bin</url>
+  </file>
+  <file name='executionHistory.lock'>
+    <size>39</size>
+    <hash type='md5'>Cannot prepare md5 for this file!</hash>
+    <url>http://mojurl/./.gradle/5.3.1/executionHistory/executionHistory.lock</url>
+  </file>
+  <file name='last-build.bin'>
+    <size>1</size>
+    <hash type='md5'>93b885adfe0da089cdf634904fd59f71</hash>
+    <url>http://mojurl/./.gradle/5.3.1/fileChanges/last-build.bin</url>
+  </file>
+  <file name='fileHashes.bin'>
+    <size>19597</size>
+    <hash type='md5'>21f7a570c1649dc18e2a44043dffa44d</hash>
+    <url>http://mojurl/./.gradle/5.3.1/fileHashes/fileHashes.bin</url>
+  </file>
+  <file name='fileHashes.lock'>
+    <size>39</size>
+    <hash type='md5'>Cannot prepare md5 for this file!</hash>
+    <url>http://mojurl/./.gradle/5.3.1/fileHashes/fileHashes.lock</url>
+  </file>
+  <file name='gc.properties'>
+    <size>0</size>
+    <hash type='md5'>d41d8cd98f00b204e9800998ecf8427e</hash>
+    <url>http://mojurl/./.gradle/5.3.1/gc.properties</url>
+  </file>
+  <file name='buildOutputCleanup.lock'>
+    <size>39</size>
+    <hash type='md5'>Cannot prepare md5 for this file!</hash>
+    <url>http://mojurl/./.gradle/buildOutputCleanup/buildOutputCleanup.lock</url>
+  </file>
+  <file name='cache.properties'>
+    <size>54</size>
+    <hash type='md5'>a39901047a412ffc6440ffb3249901d8</hash>
+    <url>http://mojurl/./.gradle/buildOutputCleanup/cache.properties</url>
+  </file>
+  <file name='gc.properties'>
+    <size>0</size>
+    <hash type='md5'>d41d8cd98f00b204e9800998ecf8427e</hash>
+    <url>http://mojurl/./.gradle/vcs-1/gc.properties</url>
+  </file>
+  <file name='build.gradle'>
+    <size>640</size>
+    <hash type='md5'>a4cdcb05edf57d9be0522397d5313b3b</hash>
+    <url>http://mojurl/./build.gradle</url>
+  </file>
+  <file name='executionHistory.bin'>
+    <size>57078</size>
+    <hash type='md5'>a1dc2e1dc769aea797e485a2684edce4</hash>
+    <url>http://mojurl/./buildSrc/.gradle/5.3.1/executionHistory/executionHistory.bin</url>
+  </file>
+  <file name='executionHistory.lock'>
+    <size>17</size>
+    <hash type='md5'>4e022a4a302af336f656feca296ec4f3</hash>
+    <url>http://mojurl/./buildSrc/.gradle/5.3.1/executionHistory/executionHistory.lock</url>
+  </file>
+  <file name='fileContent.lock'>
+    <size>17</size>
+    <hash type='md5'>1f7acd105f60cffec9d2bcf7245e7b93</hash>
+    <url>http://mojurl/./buildSrc/.gradle/5.3.1/fileContent/fileContent.lock</url>
+  </file>
+  <file name='buildOutputCleanup.lock'>
+    <size>17</size>
+    <hash type='md5'>4f637a3f1ae61ae5e6c0c387ed3edf41</hash>
+    <url>http://mojurl/./buildSrc/.gradle/buildOutputCleanup/buildOutputCleanup.lock</url>
+  </file>
+  <file name='cache.properties'>
+    <size>54</size>
+    <hash type='md5'>9d00b21a0126a6dbc47adc7fafa0ee60</hash>
+    <url>http://mojurl/./buildSrc/.gradle/buildOutputCleanup/cache.properties</url>
+  </file>
+  <file name='outputFiles.bin'>
+    <size>18803</size>
+    <hash type='md5'>28062746481853a6a3775f48a8ef1284</hash>
+    <url>http://mojurl/./buildSrc/.gradle/buildOutputCleanup/outputFiles.bin</url>
+  </file>
+  <file name='buildSrc.lock'>
+    <size>2</size>
+    <hash type='md5'>25daad3d9e60b45043a70c4ab7d3b1c6</hash>
+    <url>http://mojurl/./buildSrc/.gradle/noVersion/buildSrc.lock</url>
+  </file>
+  <file name='Metalink$_generateMD5_closure1$_closure3$_closure4.class'>
+    <size>2260</size>
+    <hash type='md5'>4c288e9679e3b2cc196eb4755974e4b7</hash>
+    <url>http://mojurl/./buildSrc/build/classes/groovy/main/org/opwo/gradle/Metalink$_generateMD5_closure1$_closure3$_closure4.class</url>
+  </file>
+  <file name='Metalink$_generateMD5_closure1$_closure3.class'>
+    <size>2852</size>
+    <hash type='md5'>7d74521bde6194490f9ffba96070b099</hash>
+    <url>http://mojurl/./buildSrc/build/classes/groovy/main/org/opwo/gradle/Metalink$_generateMD5_closure1$_closure3.class</url>
+  </file>
+  <file name='Metalink$_generateMD5_closure1.class'>
+    <size>2903</size>
+    <hash type='md5'>db0d121b99e816d8b261097f504b89d0</hash>
+    <url>http://mojurl/./buildSrc/build/classes/groovy/main/org/opwo/gradle/Metalink$_generateMD5_closure1.class</url>
+  </file>
+  <file name='Metalink$_metalink_closure2$_closure5$_closure6.class'>
+    <size>3998</size>
+    <hash type='md5'>307aa5c11a8a3005a893da80e39bd89e</hash>
+    <url>http://mojurl/./buildSrc/build/classes/groovy/main/org/opwo/gradle/Metalink$_metalink_closure2$_closure5$_closure6.class</url>
+  </file>
+  <file name='Metalink$_metalink_closure2$_closure5.class'>
+    <size>3184</size>
+    <hash type='md5'>94b9243b1191f950d9cf072de0bf918d</hash>
+    <url>http://mojurl/./buildSrc/build/classes/groovy/main/org/opwo/gradle/Metalink$_metalink_closure2$_closure5.class</url>
+  </file>
+  <file name='Metalink$_metalink_closure2.class'>
+    <size>3477</size>
+    <hash type='md5'>17c4a59cfde3b83d7bacfa26176875b7</hash>
+    <url>http://mojurl/./buildSrc/build/classes/groovy/main/org/opwo/gradle/Metalink$_metalink_closure2.class</url>
+  </file>
+  <file name='Metalink.class'>
+    <size>5289</size>
+    <hash type='md5'>f327dcac44312adfb8c0b68b6d57a668</hash>
+    <url>http://mojurl/./buildSrc/build/classes/groovy/main/org/opwo/gradle/Metalink.class</url>
+  </file>
+  <file name='buildSrc.jar'>
+    <size>12771</size>
+    <hash type='md5'>6095e6fefdca5573d4ec024493d3af62</hash>
+    <url>http://mojurl/./buildSrc/build/libs/buildSrc.jar</url>
+  </file>
+  <file name='MANIFEST.MF'>
+    <size>25</size>
+    <hash type='md5'>92d04d6bd8a0235843240bba30d2f091</hash>
+    <url>http://mojurl/./buildSrc/build/tmp/jar/MANIFEST.MF</url>
+  </file>
+  <file name='Metalink.groovy'>
+    <size>1525</size>
+    <hash type='md5'>dee72991752163145156880df7315598</hash>
+    <url>http://mojurl/./buildSrc/src/main/groovy/org/opwo/gradle/Metalink.groovy</url>
+  </file>
+  <file name='gradle.properties'>
+    <size>113</size>
+    <hash type='md5'>3e761acf9c54c7fda758cf132c449f1f</hash>
+    <url>http://mojurl/./gradle.properties</url>
+  </file>
+  <file name='new.xml'>
+    <size>40675</size>
+    <hash type='md5'>1eba3c22d57a70c9ade6c82f3ff4bfa9</hash>
+    <url>http://mojurl/./new.xml</url>
+  </file>
+  <file name='zad-opwo.xml'>
+    <size>45768</size>
+    <hash type='md5'>851187ed475c6f9c6cf3cca0cc10476c</hash>
+    <url>http://mojurl/./zad-opwo.xml</url>
+  </file>
+</metalink>
