@@ -3,11 +3,10 @@ package org.opwo.gradle
 import org.gradle.api.DefaultTask
 import org.gradle.api.tasks.TaskAction
 import groovy.io.FileType
-
 import java.security.MessageDigest
 import java.security.DigestInputStream
-
 import groovy.xml.MarkupBuilder
+import java.text.SimpleDateFormat
 
 class Metalink extends DefaultTask{
 	String fileSet
@@ -36,7 +35,7 @@ class Metalink extends DefaultTask{
 		xmlBuilder.mkp.xmlDeclaration(version: "1.0", encoding: "utf-8")
 
 		xmlBuilder.metalink(xmls:"urn:ietf:params:xml:ns:metalink") {
-			xmlBuilder.published("Data")
+			xmlBuilder.published(new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'").format(new Date()))
 			
 			dir.eachFileRecurse (FileType.FILES) { file ->
 				xmlBuilder.file("name": file.name){
@@ -48,3 +47,5 @@ class Metalink extends DefaultTask{
 		fileWriter << xmlBuilder.toString()
 	}
 }
+
+//2019-04-29T10:00:00Z
