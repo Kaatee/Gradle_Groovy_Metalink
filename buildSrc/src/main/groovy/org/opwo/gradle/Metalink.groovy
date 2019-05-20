@@ -35,8 +35,8 @@ class Metalink extends DefaultTask{
 		def fileWriter = new FileWriter("${outputFile}")
 		
 		def xmlBuilder = new MarkupBuilder(fileWriter)
+		
 		xmlBuilder.mkp.xmlDeclaration(version: "1.0", encoding: "utf-8")
-
 		xmlBuilder.metalink(xmls:"urn:ietf:params:xml:ns:metalink") {
 			xmlBuilder.published(new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'").format(new Date()))
 			
@@ -44,7 +44,7 @@ class Metalink extends DefaultTask{
 				xmlBuilder.file("name": file.name){
 					xmlBuilder.size(file.length())
 					xmlBuilder.hash("type": "md5", generateMD5(file))
-					String urlMark = (url2 + file).minus(dir.getAbsolutePath().toString()).replace('\\','/')
+					String urlMark = (url2 + file.getAbsolutePath()).minus(dir.getAbsolutePath().toString()).replace('\\','/')
 					xmlBuilder.url(urlMark)
 				}			
 			}
